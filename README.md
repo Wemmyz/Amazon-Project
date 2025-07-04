@@ -55,7 +55,7 @@ An interactive Excel dashboard was created with the following components:
 The dashboard provides a high level summary and can be used by decision-makers to identify promotional strategies, pricing optimizations, and high-performing products.
 ##### Tools Used
 
-•	Microsoft Excel for cleaning [Download here](https.//.www.microsoft.com)
+	Microsoft Excel for cleaning [Download here](https.//.www.microsoft.com)
 
 o	PivotTables
 
@@ -64,7 +64,20 @@ o	Charts
 o	Calculated Columns
 
 o	Conditional Formatting
-###### Flies Included
+
+
+###### Data cleaning and Preparation
+
+In the initial cleaning and preparation, I perform the following action:
+
+- Data loading and Inspection
+
+- Handling missing variables
+
+- Data cleaning and formatting
+
+
+Flies Included
 
 •	Amazon Data – Cleaned and calculated dataset
 
@@ -86,6 +99,6 @@ What i learnt
 
 •	How to clean and structure raw product data for analysis.
 
-•	How to use Excel's visualization and data modeling tools for storytelling.
+•	How to use Excel's visualization and data modelling tools for storytelling.
 
 •	How to design a user-friendly dashboard that communicates insights clearly.
