@@ -55,7 +55,7 @@ An interactive Excel dashboard was created with the following components:
 The dashboard provides a high level summary and can be used by decision-makers to identify promotional strategies, pricing optimizations, and high-performing products.
 ##### Tools Used
 
-•	Microsoft Excel
+•	Microsoft Excel for cleaning [Download here](https.//.www.microsoft.com)
 
 o	PivotTables
 
