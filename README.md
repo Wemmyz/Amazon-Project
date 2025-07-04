@@ -25,7 +25,40 @@ The dataset includes simulated Amazon product listings with the following fields
 4.	Visualize product rating distribution.
 
 5.	Build an Excel Dashboard to summarize and communicate insights.
-### Key Metrics & Calculations
+   
+### Tools Used
+
+	Microsoft Excel for cleaning [Download here](https.//.www.microsoft.com)
+
+o	PivotTables
+
+o	Charts
+
+o	Calculated Columns
+
+o	Conditional Formatting
+
+#### Data cleaning and Preparation
+
+In the initial cleaning and preparation, I perform the following action:
+
+- Data loading and Inspection
+
+- Handling missing variables
+
+- Data cleaning and formatting
+
+##### Explorating Data Analysis
+EDA invloved the exloring of the Data to answer some questions about the Data such as:
+
+- What is the average discount percentage by product category?
+  
+-  What is the total number of reviews per category?
+  
+- What is the total potential revenue (actual_price × rating_count) by category?
+
+
+##### Key Metrics & Calculations
 
 •	Discount Percentage
 =1 - (discounted_price / actual_price)
@@ -53,31 +86,8 @@ An interactive Excel dashboard was created with the following components:
 •	PivotTable – For dynamic filtering by category and rating
 
 The dashboard provides a high level summary and can be used by decision-makers to identify promotional strategies, pricing optimizations, and high-performing products.
-##### Tools Used
-
-	Microsoft Excel for cleaning [Download here](https.//.www.microsoft.com)
-
-o	PivotTables
-
-o	Charts
-
-o	Calculated Columns
-
-o	Conditional Formatting
-
-
-###### Data cleaning and Preparation
-
-In the initial cleaning and preparation, I perform the following action:
-
-- Data loading and Inspection
-
-- Handling missing variables
-
-- Data cleaning and formatting
-
-
-Flies Included
+ 
+##### Flies Included
 
 •	Amazon Data – Cleaned and calculated dataset
 
@@ -85,7 +95,7 @@ Flies Included
 
 •	Amazon Dashboard – Final dashboard with chart
 
-Insights Discovered
+##### Insights Discovered
 
 •	Products with higher discounts didn’t necessarily have lower ratings.
 
