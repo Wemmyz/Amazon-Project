@@ -112,3 +112,8 @@ What i learnt
 •	How to use Excel's visualization and data modelling tools for storytelling.
 
 •	How to design a user-friendly dashboard that communicates insights clearly.
+
+### Analysis
+
+![Clustered Column](https://github.com/user-attachments/assets/f70c6723-6f8a-4c56-8025-beaf5ef2dba2)
+![Clustered Bar Chart](https://github.com/user-attachments/assets/02054f3c-3e24-43ee-8d73-9cf93d752eeb)
